@@ -24,4 +24,4 @@ Don't know what to study first? No problem! Just open your browser's console, an
 N/A
 
 ## License
-This uses the MIT License. For more in formation, check out the LICENSE in the repo.
+This uses the MIT License. For more information, check out the LICENSE in the repo.
